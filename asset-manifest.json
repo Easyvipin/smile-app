@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/smile-app/static/css/main.d82a7666.chunk.css",
-    "main.js": "/smile-app/static/js/main.fc3ee625.chunk.js",
-    "main.js.map": "/smile-app/static/js/main.fc3ee625.chunk.js.map",
+    "main.js": "/smile-app/static/js/main.4063cf9d.chunk.js",
+    "main.js.map": "/smile-app/static/js/main.4063cf9d.chunk.js.map",
     "runtime-main.js": "/smile-app/static/js/runtime-main.a9499319.js",
     "runtime-main.js.map": "/smile-app/static/js/runtime-main.a9499319.js.map",
-    "static/js/2.6a0b366d.chunk.js": "/smile-app/static/js/2.6a0b366d.chunk.js",
-    "static/js/2.6a0b366d.chunk.js.map": "/smile-app/static/js/2.6a0b366d.chunk.js.map",
+    "static/js/2.b5622881.chunk.js": "/smile-app/static/js/2.b5622881.chunk.js",
+    "static/js/2.b5622881.chunk.js.map": "/smile-app/static/js/2.b5622881.chunk.js.map",
     "index.html": "/smile-app/index.html",
-    "precache-manifest.012c49e264954245391019651d2ca0bf.js": "/smile-app/precache-manifest.012c49e264954245391019651d2ca0bf.js",
+    "precache-manifest.7176bcec5b2960c8f4a83fb64ef1a89d.js": "/smile-app/precache-manifest.7176bcec5b2960c8f4a83fb64ef1a89d.js",
     "service-worker.js": "/smile-app/service-worker.js",
     "static/css/main.d82a7666.chunk.css.map": "/smile-app/static/css/main.d82a7666.chunk.css.map",
-    "static/js/2.6a0b366d.chunk.js.LICENSE.txt": "/smile-app/static/js/2.6a0b366d.chunk.js.LICENSE.txt"
+    "static/js/2.b5622881.chunk.js.LICENSE.txt": "/smile-app/static/js/2.b5622881.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a9499319.js",
-    "static/js/2.6a0b366d.chunk.js",
+    "static/js/2.b5622881.chunk.js",
     "static/css/main.d82a7666.chunk.css",
-    "static/js/main.fc3ee625.chunk.js"
+    "static/js/main.4063cf9d.chunk.js"
   ]
 }
