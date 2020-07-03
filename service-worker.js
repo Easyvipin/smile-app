@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Easyvipin/smile-app/precache-manifest.e9b1af5fc6cd499533281006a614694b.js"
+  "/Easyvipin/smile-app/precache-manifest.e2bc6a2f6cd4bec25e049932e5b62c82.js"
 );
 
 self.addEventListener('message', (event) => {

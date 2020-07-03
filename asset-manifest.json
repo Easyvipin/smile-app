@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Easyvipin/smile-app/static/css/main.d82a7666.chunk.css",
-    "main.js": "/Easyvipin/smile-app/static/js/main.59d63a79.chunk.js",
-    "main.js.map": "/Easyvipin/smile-app/static/js/main.59d63a79.chunk.js.map",
+    "main.js": "/Easyvipin/smile-app/static/js/main.6548285e.chunk.js",
+    "main.js.map": "/Easyvipin/smile-app/static/js/main.6548285e.chunk.js.map",
     "runtime-main.js": "/Easyvipin/smile-app/static/js/runtime-main.eb97cbd3.js",
     "runtime-main.js.map": "/Easyvipin/smile-app/static/js/runtime-main.eb97cbd3.js.map",
-    "static/js/2.28b3507c.chunk.js": "/Easyvipin/smile-app/static/js/2.28b3507c.chunk.js",
-    "static/js/2.28b3507c.chunk.js.map": "/Easyvipin/smile-app/static/js/2.28b3507c.chunk.js.map",
+    "static/js/2.b5622881.chunk.js": "/Easyvipin/smile-app/static/js/2.b5622881.chunk.js",
+    "static/js/2.b5622881.chunk.js.map": "/Easyvipin/smile-app/static/js/2.b5622881.chunk.js.map",
     "index.html": "/Easyvipin/smile-app/index.html",
-    "precache-manifest.e9b1af5fc6cd499533281006a614694b.js": "/Easyvipin/smile-app/precache-manifest.e9b1af5fc6cd499533281006a614694b.js",
+    "precache-manifest.e2bc6a2f6cd4bec25e049932e5b62c82.js": "/Easyvipin/smile-app/precache-manifest.e2bc6a2f6cd4bec25e049932e5b62c82.js",
     "service-worker.js": "/Easyvipin/smile-app/service-worker.js",
     "static/css/main.d82a7666.chunk.css.map": "/Easyvipin/smile-app/static/css/main.d82a7666.chunk.css.map",
-    "static/js/2.28b3507c.chunk.js.LICENSE.txt": "/Easyvipin/smile-app/static/js/2.28b3507c.chunk.js.LICENSE.txt"
+    "static/js/2.b5622881.chunk.js.LICENSE.txt": "/Easyvipin/smile-app/static/js/2.b5622881.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eb97cbd3.js",
-    "static/js/2.28b3507c.chunk.js",
+    "static/js/2.b5622881.chunk.js",
     "static/css/main.d82a7666.chunk.css",
-    "static/js/main.59d63a79.chunk.js"
+    "static/js/main.6548285e.chunk.js"
   ]
 }
