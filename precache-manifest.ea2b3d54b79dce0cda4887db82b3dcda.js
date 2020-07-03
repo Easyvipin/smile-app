@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62a7bb8262927959ec6f970ded7c54ef",
+    "revision": "30d741e5cde7a092b1028dded491a671",
     "url": "/Easyvipin/smile-app/index.html"
   },
   {
-    "revision": "f1f05be92a7a3dc70227",
+    "revision": "66d6084ff299dbddd908",
     "url": "/Easyvipin/smile-app/static/css/main.d82a7666.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Easyvipin/smile-app/static/js/2.b5622881.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1f05be92a7a3dc70227",
-    "url": "/Easyvipin/smile-app/static/js/main.6548285e.chunk.js"
+    "revision": "66d6084ff299dbddd908",
+    "url": "/Easyvipin/smile-app/static/js/main.94d040c3.chunk.js"
   },
   {
     "revision": "ba40158a0895522461b4",
