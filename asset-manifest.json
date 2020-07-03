@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Easyvipin/smile-app/static/css/main.d82a7666.chunk.css",
+    "main.js": "/Easyvipin/smile-app/static/js/main.a01da6b9.chunk.js",
+    "main.js.map": "/Easyvipin/smile-app/static/js/main.a01da6b9.chunk.js.map",
+    "runtime-main.js": "/Easyvipin/smile-app/static/js/runtime-main.eb97cbd3.js",
+    "runtime-main.js.map": "/Easyvipin/smile-app/static/js/runtime-main.eb97cbd3.js.map",
+    "static/js/2.1e172582.chunk.js": "/Easyvipin/smile-app/static/js/2.1e172582.chunk.js",
+    "static/js/2.1e172582.chunk.js.map": "/Easyvipin/smile-app/static/js/2.1e172582.chunk.js.map",
+    "index.html": "/Easyvipin/smile-app/index.html",
+    "precache-manifest.78109b6ed9704fa289a5d52666e62652.js": "/Easyvipin/smile-app/precache-manifest.78109b6ed9704fa289a5d52666e62652.js",
+    "service-worker.js": "/Easyvipin/smile-app/service-worker.js",
+    "static/css/main.d82a7666.chunk.css.map": "/Easyvipin/smile-app/static/css/main.d82a7666.chunk.css.map",
+    "static/js/2.1e172582.chunk.js.LICENSE.txt": "/Easyvipin/smile-app/static/js/2.1e172582.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb97cbd3.js",
+    "static/js/2.1e172582.chunk.js",
+    "static/css/main.d82a7666.chunk.css",
+    "static/js/main.a01da6b9.chunk.js"
+  ]
+}
