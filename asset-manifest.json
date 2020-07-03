@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Easyvipin/smile-app/static/css/main.d82a7666.chunk.css",
-    "main.js": "/Easyvipin/smile-app/static/js/main.9504c388.chunk.js",
-    "main.js.map": "/Easyvipin/smile-app/static/js/main.9504c388.chunk.js.map",
-    "runtime-main.js": "/Easyvipin/smile-app/static/js/runtime-main.eb97cbd3.js",
-    "runtime-main.js.map": "/Easyvipin/smile-app/static/js/runtime-main.eb97cbd3.js.map",
-    "static/js/2.6a0b366d.chunk.js": "/Easyvipin/smile-app/static/js/2.6a0b366d.chunk.js",
-    "static/js/2.6a0b366d.chunk.js.map": "/Easyvipin/smile-app/static/js/2.6a0b366d.chunk.js.map",
-    "index.html": "/Easyvipin/smile-app/index.html",
-    "precache-manifest.d6f24f6f33c652bff1744f1cd238a074.js": "/Easyvipin/smile-app/precache-manifest.d6f24f6f33c652bff1744f1cd238a074.js",
-    "service-worker.js": "/Easyvipin/smile-app/service-worker.js",
-    "static/css/main.d82a7666.chunk.css.map": "/Easyvipin/smile-app/static/css/main.d82a7666.chunk.css.map",
-    "static/js/2.6a0b366d.chunk.js.LICENSE.txt": "/Easyvipin/smile-app/static/js/2.6a0b366d.chunk.js.LICENSE.txt"
+    "main.css": "/smile-app/static/css/main.d82a7666.chunk.css",
+    "main.js": "/smile-app/static/js/main.fc3ee625.chunk.js",
+    "main.js.map": "/smile-app/static/js/main.fc3ee625.chunk.js.map",
+    "runtime-main.js": "/smile-app/static/js/runtime-main.a9499319.js",
+    "runtime-main.js.map": "/smile-app/static/js/runtime-main.a9499319.js.map",
+    "static/js/2.6a0b366d.chunk.js": "/smile-app/static/js/2.6a0b366d.chunk.js",
+    "static/js/2.6a0b366d.chunk.js.map": "/smile-app/static/js/2.6a0b366d.chunk.js.map",
+    "index.html": "/smile-app/index.html",
+    "precache-manifest.012c49e264954245391019651d2ca0bf.js": "/smile-app/precache-manifest.012c49e264954245391019651d2ca0bf.js",
+    "service-worker.js": "/smile-app/service-worker.js",
+    "static/css/main.d82a7666.chunk.css.map": "/smile-app/static/css/main.d82a7666.chunk.css.map",
+    "static/js/2.6a0b366d.chunk.js.LICENSE.txt": "/smile-app/static/js/2.6a0b366d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb97cbd3.js",
+    "static/js/runtime-main.a9499319.js",
     "static/js/2.6a0b366d.chunk.js",
     "static/css/main.d82a7666.chunk.css",
-    "static/js/main.9504c388.chunk.js"
+    "static/js/main.fc3ee625.chunk.js"
   ]
 }
