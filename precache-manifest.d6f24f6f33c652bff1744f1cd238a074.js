@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d693c6df67c5d6480d7389b92b622f6",
+    "revision": "5a0e0f5acb0ef48f5eb81c67b3ed1995",
     "url": "/Easyvipin/smile-app/index.html"
   },
   {
-    "revision": "90875f29c00223798172",
+    "revision": "65977ec1c0457c78c483",
     "url": "/Easyvipin/smile-app/static/css/main.d82a7666.chunk.css"
   },
   {
-    "revision": "b11865a6804e6551f944",
-    "url": "/Easyvipin/smile-app/static/js/2.b5622881.chunk.js"
+    "revision": "50fec58bc5d91a547150",
+    "url": "/Easyvipin/smile-app/static/js/2.6a0b366d.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Easyvipin/smile-app/static/js/2.b5622881.chunk.js.LICENSE.txt"
+    "url": "/Easyvipin/smile-app/static/js/2.6a0b366d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "90875f29c00223798172",
-    "url": "/Easyvipin/smile-app/static/js/main.92fb6fbf.chunk.js"
+    "revision": "65977ec1c0457c78c483",
+    "url": "/Easyvipin/smile-app/static/js/main.9504c388.chunk.js"
   },
   {
     "revision": "ba40158a0895522461b4",
